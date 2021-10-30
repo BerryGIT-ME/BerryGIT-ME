@@ -1,6 +1,6 @@
 # 👋 Hi There I’m Ikechukwu Okerenwogba aka  @Berry
 -  I am a graduate of Electrical engineering but I have a passion for software development
-- I’m interested in full stack software developmet and machine learning
+- I’m interested in full stack software development and machine learning
 ## Tech Stack
 ### Full stack development
   - :zap: language: -> javascript | Typescript
